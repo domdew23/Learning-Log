@@ -1,6 +1,6 @@
-#![Learning Log](https://dom-learning-log.herokuapp.com/)
+#[Learning Log](https://dom-learning-log.herokuapp.com/)
 
-Learning Lop is an online journal system that lets you keep track of information taht you've learned about particular topics. ![Click here](https://dom-learning-log.herokuapp.com/) to visit Learning Log and register for an account to begin documenting what you have learned.
+Learning Lop is an online journal system that lets you keep track of information taht you've learned about particular topics. [Click here](https://dom-learning-log.herokuapp.com/) to visit Learning Log and register for an account to begin documenting what you have learned.
 
 ## Built With
 * [Python](https://www.python.org/) - The functionality of the application
