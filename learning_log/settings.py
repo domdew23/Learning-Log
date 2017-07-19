@@ -155,4 +155,3 @@ if cwd == '/app' or cwd[:4] =='/tmp':
 
 # Allow only Heroku to host the project
 ALLOWED_HOSTS = ['dom-learning-log.herokuapp.com']
-DEBUG = False
