@@ -1,12 +1,13 @@
 # [Learning Log](https://dom-learning-log.herokuapp.com/)
 
-Learning Lop is an online journal system that lets you keep track of information that you've learned about particular topics. [Click here](https://dom-learning-log.herokuapp.com/) to visit Learning Log and register for an account to begin documenting what you have learned.
+Learning Log is an online journal system that lets you keep track of information that you've learned about particular topics. [Click here](https://dom-learning-log.herokuapp.com/) to visit Learning Log and register for an account to begin documenting what you have learned.
 
 ## Getting Started
 
 Register and login to begin recording entries. First add a new topic in which you have learned about. Then under that topic you can begin to record entries about specific information that you have learned. You may continue to add new topics and entries as you wish, as well as edit existing entries.
 
 ## Built With
+
 * [Python](https://www.python.org/) - The functionality of the application
 * [Django](https://www.djangoproject.com/) - Used for the web framework
 * [BootStrap](http://getbootstrap.com/) - Used to style the website
@@ -18,6 +19,7 @@ Register and login to begin recording entries. First add a new topic in which yo
 * **Dominic Dewhurst**
 
 ## Links
+
 * [Linkedin](https://www.linkedin.com/in/dominic-dewhurst-b1a971129)
 * [Youtube](https://www.youtube.com/channel/UCPrj3XZlY39YiaHc6yaodLg)
 
