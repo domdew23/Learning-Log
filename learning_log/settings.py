@@ -152,3 +152,7 @@ if cwd == '/app' or cwd[:4] =='/tmp':
     STATIC_FILES_DIRS = (
         os.path.join(BASE_DIR, 'static')
         )
+
+# Allow only Heroku to host the project
+ALLOWED_HOSTS = ['dom-learning-log.herokuapp.com']
+DEBUG = False
