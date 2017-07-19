@@ -60,7 +60,7 @@ ROOT_URLCONF = 'learning_log.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [os.path.join(BASE_DIR, 'learning_log/templates')],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -156,3 +156,4 @@ if cwd == '/app' or cwd[:4] =='/tmp':
 
 # Allow only Heroku to host the project
 ALLOWED_HOSTS = ['dom-learning-log.herokuapp.com']
+DEBUG = False
